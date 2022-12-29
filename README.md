@@ -89,9 +89,9 @@
 
   ![KakaoTalk_Video_2022-10-07-10-16-54](https://user-images.githubusercontent.com/62989828/194450178-7dd2b59b-379b-4905-ac73-b0e49f031f2a.gif)
 
-    - 필터링 및 정렬
+- 필터링 및 정렬
 
-      ![KakaoTalk_Video_2022-10-07-10-16-59](https://user-images.githubusercontent.com/62989828/194451169-98f6422a-a3ac-498e-8011-f7d213426f75.gif)
+  ![KakaoTalk_Video_2022-10-07-10-16-59](https://user-images.githubusercontent.com/62989828/194451169-98f6422a-a3ac-498e-8011-f7d213426f75.gif)
 
 - 사전 설문
 
